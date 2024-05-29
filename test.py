@@ -1,1 +1,1 @@
-kprint "wassup buddy!! v2")
+print("wassup buddy!! v2")
