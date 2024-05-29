@@ -1,3 +1,3 @@
-print(f"Hello")
+print("Hello")
 
 
