@@ -1,2 +1,2 @@
-printf"Hello, {name}!")
+prin
 
