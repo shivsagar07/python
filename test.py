@@ -1,1 +1,1 @@
-print("ram ram v1
+print"ram ram v1")
