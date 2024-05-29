@@ -1,2 +1,3 @@
-prin
+print(f"Hello, {name}!")
+
 
