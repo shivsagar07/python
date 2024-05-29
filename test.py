@@ -1,2 +1,2 @@
-print(f"Hello, {name}!")
+printf"Hello, {name}!")
 
