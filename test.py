@@ -1,1 +1,1 @@
-print wassup buddy!! v2")
+print("ram ram v1
