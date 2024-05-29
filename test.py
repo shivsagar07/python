@@ -1,1 +1,2 @@
-rint"ram ram v1")
+print(f"Hello, {name}!")
+
